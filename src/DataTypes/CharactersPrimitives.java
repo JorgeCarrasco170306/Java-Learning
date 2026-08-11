@@ -1,7 +1,7 @@
 package DataTypes;
 
 public class CharactersPrimitives {
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         char myInitial = 'J'; // -> 16 bits 2 bytes
         char arrob = '\u0040';
